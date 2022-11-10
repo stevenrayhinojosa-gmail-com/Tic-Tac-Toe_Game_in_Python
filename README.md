@@ -1,2 +1,2 @@
 # tictactoe
-white belt 
+white belt
