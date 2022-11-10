@@ -1,2 +1,2 @@
 # tictactoe
-white belt shiz
+white belt 
